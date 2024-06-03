@@ -1,0 +1,22 @@
+ body{
+    background-image:url(acer.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-color: aqua;
+   
+    
+    
+ }
+ h2{
+     font-size: 1.1pc;
+ }
+ h3{
+   font-size: medium;
+ }
+ .customform{
+  margin-right:875px; 
+  padding-left:10px ;
+  border: 2px solid black;
+  padding: bottom 10px ;
+  padding-bottom: 40px;
+ }
